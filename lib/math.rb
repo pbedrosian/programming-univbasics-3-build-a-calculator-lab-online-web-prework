@@ -21,7 +21,7 @@ multiplication(4,30)
 def modulo(num1, num2)
 p num1 % num2
 end
-modulo(35,4)
+modulo(34,5)
 
 def square_root(num)
 
