@@ -11,11 +11,12 @@ subtraction(10,5)
 def division(num1, num2)
   p num1 / num2
 end
-division()
+division(50,2)
+
 def multiplication(num1, num2)
-
+p num1 * num2
 end
-
+multiplication
 def modulo(num1, num2)
 
 end
