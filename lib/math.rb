@@ -17,6 +17,7 @@ def multiplication(num1, num2)
 p num1 * num2
 end
 multiplication(4,30)
+
 def modulo(num1, num2)
 
 end
