@@ -26,4 +26,4 @@ modulo(34,5)
 def square_root(num)
 p num
 end
-square_root("Math.sin(81)")
+square_root(Math.sin(81))
